@@ -2,10 +2,10 @@
 
 
 # 🚀 ATHEX VEHICLE INFORMATION SYSTEM 🔍
-<div align="center">
-https://img.shields.io/badge/ATHEX-BLACK_HAT-red?style=for-the-badge&logo=python
-https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge
-https://img.shields.io/badge/Python-3.6+-green?style=for-the-badge&logo=python
+
+![GEO-PHONE](https://img.shields.io/badge/ATHEX-BLACK_HAT-red?style=for-the-badge&logo=python)
+![GEO-PHONE](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
+![GEO-PHONE](https://img.shields.io/badge/Python-3.6+-green?style=for-the-badge&logo=python)
 
 ***🔥 CYBER INTEL SUITE FOR VEHICLE DATA***
 
@@ -120,24 +120,15 @@ Issue	Solution
 📈 Success Rate: 95% (API dependent)
 
 # ***🎥 DEVELOPER SHOWCASE***
-<div align="center">
 CREATED BY: ATHEX BLACK HAT 👨‍💻
-YOUTUBE: BLACK HAT ATHEX 🎬
-https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white
 
-</div>
+YOUTUBE: BLACK HAT ATHEX 🎬
+
+
  
 ***⚠️ No support for illegal activities***
 
-<div align="center">
-⚡ WITH GREAT POWER COMES GREAT RESPONSIBILITY ⚡
-USE WISELY • STAY ETHICAL • RESPECT PRIVACY
-https://img.shields.io/badge/MADE_WITH-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge
-https://img.shields.io/badge/FOR-EDUCATIONAL_USE-blue?style=for-the-badge
-https://img.shields.io/badge/POWERED_BY-PYTHON-green?style=for-the-badge
-
-</div>
-© 2026 ATHEX BLACK HAT | CYBER SECURITY EXPERT - DARK WEB RESEARCHER - DEVELOPER MUCH MORE ....
+# ⚡ WITH GREAT POWER COMES GREAT RESPONSIBILITY ⚡
+***USE WISELY • STAY ETHICAL • RESPECT PRIVACY***
+**© 2026 ATHEX BLACK HAT | CYBER SECURITY EXPERT - DARK WEB RESEARCHER - DEVELOPER MUCH MORE ....**
 
