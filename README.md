@@ -3,7 +3,7 @@
 
 # 🚀 ATHEX VEHICLE INFORMATION SYSTEM 🔍
 
-![GEO-PHONE](https://img.shields.io/badge/ATHEX-BLACK_HAT-red?style=for-the-badge&logo=python)
+![GEO-PHONE](https://img.shields.io/badge/ATHEX-BLACK_HAT-red?style=for-the-badge&logo=developer)
 ![GEO-PHONE](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
 ![GEO-PHONE](https://img.shields.io/badge/Python-3.6+-green?style=for-the-badge&logo=python)
 
@@ -128,7 +128,7 @@ YOUTUBE: BLACK HAT ATHEX 🎬
  
 ***⚠️ No support for illegal activities***
 
-# ⚡ WITH GREAT POWER COMES GREAT RESPONSIBILITY ⚡
+**⚡ WITH GREAT POWER COMES GREAT RESPONSIBILITY ⚡**
 ***USE WISELY • STAY ETHICAL • RESPECT PRIVACY***
 **© 2026 ATHEX BLACK HAT | CYBER SECURITY EXPERT - DARK WEB RESEARCHER - DEVELOPER MUCH MORE ....**
 
